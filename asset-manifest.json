@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Welgin/SoleGin/static/css/main.2e06284f.css",
-    "main.js": "/Welgin/SoleGin/static/js/main.6da53fe2.js",
-    "static/media/deliveryimg.png": "/Welgin/SoleGin/static/media/deliveryimg.a7c7cb29cf5c859228f1.png",
-    "index.html": "/Welgin/SoleGin/index.html",
-    "main.2e06284f.css.map": "/Welgin/SoleGin/static/css/main.2e06284f.css.map",
-    "main.6da53fe2.js.map": "/Welgin/SoleGin/static/js/main.6da53fe2.js.map"
+    "main.css": "/SoleGin/static/css/main.2e06284f.css",
+    "main.js": "/SoleGin/static/js/main.dfb669c0.js",
+    "static/media/deliveryimg.png": "/SoleGin/static/media/deliveryimg.a7c7cb29cf5c859228f1.png",
+    "index.html": "/SoleGin/index.html",
+    "main.2e06284f.css.map": "/SoleGin/static/css/main.2e06284f.css.map",
+    "main.dfb669c0.js.map": "/SoleGin/static/js/main.dfb669c0.js.map"
   },
   "entrypoints": [
     "static/css/main.2e06284f.css",
-    "static/js/main.6da53fe2.js"
+    "static/js/main.dfb669c0.js"
   ]
 }
